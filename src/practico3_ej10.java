@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class practico3_ej10 {
     public static void main (String args[]) {
-        // Dado un número, un máximo y un mínimo (recibido por parámetro), retorne verdadero si el numero esta dentro del máximo y el mínimo.
-        // Si el número se encuentra dentro del max y min, el  programa debe mostrar  “El numero es valido”. Si no, se debe retornar “El numero
-        // esta fuera de rango.”
+        // Dado un número, un máximo y un mínimo (recibido por parámetro), retorne verdadero si el número está dentro del máximo y el mínimo.
+        // Si el número se encuentra dentro del máx y mín, el programa debe mostrar  “El número es válido”. Si no, se debe retornar “El número
+        // está fuera de rango.”
 
         Scanner input = new Scanner(System.in);
         int num = 0;
